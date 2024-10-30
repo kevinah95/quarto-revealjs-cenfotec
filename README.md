@@ -19,3 +19,4 @@ _TODO_: Describe how to use your extension.
 
 Here is the source code for a minimal example: [example.qmd](example.qmd).
 
+This repository is using release-please.
