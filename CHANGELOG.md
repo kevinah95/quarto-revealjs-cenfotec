@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.0.0...v1.0.1) (2024-10-30)
+
+
+### Bug Fixes
+
+* :green_heart: Don't know why didn't work ([ecc9230](https://github.com/kevinah95/quarto-revealjs-cenfotec/commit/ecc92306cf0b583efb39951679d29a1316ad1b82))
+
 ## 1.0.0 (2024-10-30)
 
 
