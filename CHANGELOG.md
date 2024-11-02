@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.0.1...v1.0.2) (2024-11-02)
+
+
+### Bug Fixes
+
+* :bug: Change revealjs-plugin to revealjs-theme ([68f35d5](https://github.com/kevinah95/quarto-revealjs-cenfotec/commit/68f35d596d434e4286d94c7c9a5286b7701d75a0))
+
 ## [1.0.1](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.0.0...v1.0.1) (2024-10-30)
 
 
