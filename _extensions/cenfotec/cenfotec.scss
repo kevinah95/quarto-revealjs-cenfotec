@@ -1,18 +1,27 @@
 /*-- scss:defaults --*/
 
+/* TODO: Customize presentation appearance by setting SCSS variables */
+/* See https://quarto.org/docs/presentations/revealjs/themes.html#customizing-themes */
+
+// Include theme-specific fonts
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,700,400italic,700italic);
+
+// fonts
+$font-family-sans-serif: "Fira Sans", sans-serif !default;
+
+$presentation-heading-font: "Fira Sans", sans-serif !default;
 
 /*-- scss:rules --*/
 
-
 #title-slide {
-    text-align: left;
-  
-    .title {
-      color: $body-color;
-      font-size: 1.4em;
-      // font-weight: 350;
-      font-weight: lighter;
-    }
-  
-  
+  text-align: left;
+
+  .title {
+    color: $body-color;
+    font-size: 1.4em;
+    // font-weight: 350;
+    font-weight: lighter;
   }
+
+
+}

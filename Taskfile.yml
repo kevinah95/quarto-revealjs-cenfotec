@@ -5,4 +5,4 @@ version: '3'
 tasks:
   default:
     cmds:
-      - quarto preview example.qmd --port 4444
+      - quarto preview template.qmd --port 4444
