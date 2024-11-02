@@ -7,4 +7,6 @@ contributes:
     revealjs:
       theme: [dark, cenfotec.scss]
       logo: logo.svg
+      title-slide-attributes:
+        data-background-image: background.jpg
 
