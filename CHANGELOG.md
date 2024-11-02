@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.0.2...v1.1.0) (2024-11-02)
+
+
+### Features
+
+* :sparkles: Add background ([05305d4](https://github.com/kevinah95/quarto-revealjs-cenfotec/commit/05305d4a879e9914fccbe0b53677b88f194035e6))
+
 ## [1.0.2](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.0.1...v1.0.2) (2024-11-02)
 
 
