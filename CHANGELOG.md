@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.2.0...v1.3.0) (2024-11-03)
+
+
+### Features
+
+* :sparkles: Add version to the extension ([45147d8](https://github.com/kevinah95/quarto-revealjs-cenfotec/commit/45147d860dacadc272d9623bb4395668874697b9))
+
 ## [1.2.0](https://github.com/kevinah95/quarto-revealjs-cenfotec/compare/v1.1.0...v1.2.0) (2024-11-03)
 
 
