@@ -13,17 +13,30 @@ $presentation-heading-font: "Fira Sans", sans-serif !default;
 
 $presentation-title-slide-text-align: left !default;
 
+$presentation-font-size-root: 24pt;
+
+// Colors
+$body-color: #000 !default;
+
+
+// Layout
+//$presentation-block-margin: 5px;
+
 /*-- scss:rules --*/
 
-#title-slide {
-  text-align: left;
+// #title-slide {
+//   text-align: left;
 
-  .title {
-    color: $body-color;
-    font-size: 1.4em;
-    // font-weight: 350;
-    font-weight: lighter;
-  }
+//   .title {
+//     color: $body-color;
+//     font-size: 1.4em;
+//     // font-weight: 350;
+//     font-weight: lighter;
+//   }
 
 
+// }
+.slide-background-content{
+  background-image: url("/_extensions/cenfotec/background_body.jpg");
+  background-size: 100% 100%;
 }

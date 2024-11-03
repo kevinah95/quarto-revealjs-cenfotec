@@ -9,4 +9,5 @@ contributes:
       logo: logo.svg
       title-slide-attributes:
         data-background-image: background.jpg
+        data-background-size: 100% 100%;
 
